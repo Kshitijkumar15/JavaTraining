@@ -1,0 +1,3 @@
+# JavaTraining
+
+practiced ava programs 
